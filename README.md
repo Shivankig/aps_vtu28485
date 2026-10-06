@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Shivankig/aps_vtu28485/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Shivankig/aps_vtu28485/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Shivankig/aps_vtu28485/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivankig/aps_vtu28485/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shivankig/aps_vtu28485/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/Shivankig/aps_vtu28485/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Shivankig/aps_vtu28485/tree/master/0946-validate-stack-sequences) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivankig/aps_vtu28485/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shivankig/aps_vtu28485/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivankig/aps_vtu28485/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
