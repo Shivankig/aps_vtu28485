@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivankig/aps_vtu28485/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Shivankig/aps_vtu28485/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivankig/aps_vtu28485/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Shivankig/aps_vtu28485/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Shivankig/aps_vtu28485/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Shivankig/aps_vtu28485/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Shivankig/aps_vtu28485/tree/master/0946-validate-stack-sequences) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shivankig/aps_vtu28485/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/Shivankig/aps_vtu28485/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Shivankig/aps_vtu28485/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Shivankig/aps_vtu28485/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivankig/aps_vtu28485/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -117,6 +119,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Shivankig/aps_vtu28485/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Shivankig/aps_vtu28485/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivankig/aps_vtu28485/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shivankig/aps_vtu28485/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
