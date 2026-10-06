@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shivankig/aps_vtu28485/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivankig/aps_vtu28485/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/Shivankig/aps_vtu28485/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Shivankig/aps_vtu28485/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Shivankig/aps_vtu28485/tree/master/0735-asteroid-collision) |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shivankig/aps_vtu28485/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivankig/aps_vtu28485/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
