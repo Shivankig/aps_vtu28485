@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivankig/aps_vtu28485/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shivankig/aps_vtu28485/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Shivankig/aps_vtu28485/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Shivankig/aps_vtu28485/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivankig/aps_vtu28485/tree/master/0144-binary-tree-preorder-traversal) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shivankig/aps_vtu28485/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Shivankig/aps_vtu28485/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Shivankig/aps_vtu28485/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivankig/aps_vtu28485/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivankig/aps_vtu28485/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shivankig/aps_vtu28485/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Shivankig/aps_vtu28485/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Shivankig/aps_vtu28485/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivankig/aps_vtu28485/tree/master/0144-binary-tree-preorder-traversal) |
