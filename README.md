@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Shivankig/aps_vtu28485/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Shivankig/aps_vtu28485/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Shivankig/aps_vtu28485/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0113-path-sum-ii) |
 ## Design
 |  |
 | ------- |
@@ -29,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Shivankig/aps_vtu28485/tree/master/0933-number-of-recent-calls) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
