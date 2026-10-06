@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shivankig/aps_vtu28485/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Shivankig/aps_vtu28485/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shivankig/aps_vtu28485/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Shivankig/aps_vtu28485/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/Shivankig/aps_vtu28485/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivankig/aps_vtu28485/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivankig/aps_vtu28485/tree/master/0144-binary-tree-preorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Shivankig/aps_vtu28485/tree/master/0232-implement-queue-using-stacks) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Shivankig/aps_vtu28485/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## String
 |  |
