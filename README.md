@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Shivankig/aps_vtu28485/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivankig/aps_vtu28485/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Shivankig/aps_vtu28485/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Shivankig/aps_vtu28485/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Shivankig/aps_vtu28485/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Shivankig/aps_vtu28485/tree/master/0933-number-of-recent-calls) |
 ## Backtracking
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shivankig/aps_vtu28485/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivankig/aps_vtu28485/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/Shivankig/aps_vtu28485/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Shivankig/aps_vtu28485/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Shivankig/aps_vtu28485/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Shivankig/aps_vtu28485/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## String
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivankig/aps_vtu28485/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shivankig/aps_vtu28485/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
