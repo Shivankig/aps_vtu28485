@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Shivankig/aps_vtu28485/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivankig/aps_vtu28485/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Shivankig/aps_vtu28485/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivankig/aps_vtu28485/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivankig/aps_vtu28485/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Shivankig/aps_vtu28485/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivankig/aps_vtu28485/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/Shivankig/aps_vtu28485/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Shivankig/aps_vtu28485/tree/master/0946-validate-stack-sequences) |
