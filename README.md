@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Shivankig/aps_vtu28485/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shivankig/aps_vtu28485/tree/master/0459-repeated-substring-pattern) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Shivankig/aps_vtu28485/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Array
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shivankig/aps_vtu28485/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivankig/aps_vtu28485/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shivankig/aps_vtu28485/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
