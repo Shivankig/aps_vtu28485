@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Shivankig/aps_vtu28485/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Shivankig/aps_vtu28485/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Shivankig/aps_vtu28485/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shivankig/aps_vtu28485/tree/master/0459-repeated-substring-pattern) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Shivankig/aps_vtu28485/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Shivankig/aps_vtu28485/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0142-linked-list-cycle-ii) |
@@ -237,13 +239,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shivankig/aps_vtu28485/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shivankig/aps_vtu28485/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shivankig/aps_vtu28485/tree/master/0459-repeated-substring-pattern) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
