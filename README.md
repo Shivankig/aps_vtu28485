@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shivankig/aps_vtu28485/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Shivankig/aps_vtu28485/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shivankig/aps_vtu28485/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Shivankig/aps_vtu28485/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Shivankig/aps_vtu28485/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivankig/aps_vtu28485/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Shivankig/aps_vtu28485/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/Shivankig/aps_vtu28485/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Shivankig/aps_vtu28485/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shivankig/aps_vtu28485/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Shivankig/aps_vtu28485/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
