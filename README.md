@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Shivankig/aps_vtu28485/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivankig/aps_vtu28485/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivankig/aps_vtu28485/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivankig/aps_vtu28485/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -271,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivankig/aps_vtu28485/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivankig/aps_vtu28485/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
