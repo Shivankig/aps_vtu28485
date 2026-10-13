@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shivankig/aps_vtu28485/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivankig/aps_vtu28485/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivankig/aps_vtu28485/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shivankig/aps_vtu28485/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Shivankig/aps_vtu28485/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Shivankig/aps_vtu28485/tree/master/0735-asteroid-collision) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shivankig/aps_vtu28485/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivankig/aps_vtu28485/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivankig/aps_vtu28485/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Shivankig/aps_vtu28485/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
