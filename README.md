@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Shivankig/aps_vtu28485/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Shivankig/aps_vtu28485/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Shivankig/aps_vtu28485/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0344-reverse-string) |
