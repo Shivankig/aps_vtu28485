@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivankig/aps_vtu28485/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Shivankig/aps_vtu28485/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Shivankig/aps_vtu28485/tree/master/0344-reverse-string) |
+| [0459-repeated-substring-pattern](https://github.com/Shivankig/aps_vtu28485/tree/master/0459-repeated-substring-pattern) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Shivankig/aps_vtu28485/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Array
 |  |
@@ -233,4 +234,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Shivankig/aps_vtu28485/tree/master/0867-transpose-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shivankig/aps_vtu28485/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shivankig/aps_vtu28485/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shivankig/aps_vtu28485/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
