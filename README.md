@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shivankig/aps_vtu28485/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shivankig/aps_vtu28485/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Shivankig/aps_vtu28485/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/Shivankig/aps_vtu28485/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Shivankig/aps_vtu28485/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shivankig/aps_vtu28485/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Shivankig/aps_vtu28485/tree/master/0867-transpose-matrix) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivankig/aps_vtu28485/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0704-binary-search](https://github.com/Shivankig/aps_vtu28485/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
